@@ -1,7 +1,5 @@
 #!/bin/bash
 <<<<<<< HEAD
-ALX School
+ALX School HEAD
 =======
-
->>>>>>> update_script
-HEAD
+>>>>>> update_script
