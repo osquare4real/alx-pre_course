@@ -1,1 +1,5 @@
-up_to_date
+git pull
+git push
+git commit -m
+git branch
+git add .
